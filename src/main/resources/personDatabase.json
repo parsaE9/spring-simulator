@@ -1,0 +1,5 @@
+[
+  { "nationalCode" : "0022161848", "firstName" : "parsa", "lastName": "esfahani", "fatherName" :  "reza", "birthdate" :  "31/12/1998"},
+  { "nationalCode" : "0012181987", "firstName" : "ali", "lastName": "masoud", "fatherName" :  "javad", "birthdate" :  "20/10/1994"},
+  { "nationalCode" : "0087234365", "firstName" : "amir", "lastName": "bayat", "fatherName" :  "gholi", "birthdate" :  "11/11/1993"}
+]

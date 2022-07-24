@@ -1,0 +1,5 @@
+[
+  { "postalCode" : "012345678912345", "address" : "narmak", "city": "tehran", "state" :  "tehran"},
+  { "postalCode" : "987654321098765", "address" : "shahran", "city": "esfahan", "state" :  "esfahan"},
+  { "postalCode" : "112233445566778", "address" : "tehransar", "city": "yazd", "state" :  "yazd"}
+]
