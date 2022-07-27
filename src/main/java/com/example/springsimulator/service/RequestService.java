@@ -2,8 +2,8 @@ package com.example.springsimulator.service;
 
 import com.example.springsimulator.enumeration.TypeEnum;
 import com.example.springsimulator.factory.RequestProcessorFactory;
-import com.example.springsimulator.request.Request;
-import com.example.springsimulator.response.Response;
+import com.example.springsimulator.dto.request.Request;
+import com.example.springsimulator.dto.response.Response;
 import com.example.springsimulator.validation.IValidator;
 import com.example.springsimulator.factory.ValidatorFactory;
 import org.springframework.beans.factory.annotation.Autowired;

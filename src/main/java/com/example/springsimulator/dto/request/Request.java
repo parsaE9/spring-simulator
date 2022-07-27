@@ -1,4 +1,4 @@
-package com.example.springsimulator.request;
+package com.example.springsimulator.dto.request;
 
 public class Request {
 

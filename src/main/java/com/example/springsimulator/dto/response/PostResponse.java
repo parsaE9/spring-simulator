@@ -1,4 +1,4 @@
-package com.example.springsimulator.response;
+package com.example.springsimulator.dto.response;
 
 import org.springframework.stereotype.Component;
 

@@ -1,7 +1,7 @@
 package com.example.springsimulator.validation;
 
-import com.example.springsimulator.request.Request;
-import com.example.springsimulator.response.Response;
+import com.example.springsimulator.dto.request.Request;
+import com.example.springsimulator.dto.response.Response;
 
 
 public abstract class AValidator implements IValidator {
